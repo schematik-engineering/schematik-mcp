@@ -1,0 +1,8 @@
+{
+  "name": "schematik",
+  "version": "1.0.0",
+  "description": "Search electronics parts and step-by-step hardware build guides from Schematik.",
+  "mcpServers": {
+    "schematik": { "httpUrl": "https://www.schematik.io/mcp" }
+  }
+}

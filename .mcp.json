@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "schematik": { "type": "http", "url": "https://www.schematik.io/mcp" }
+  }
+}

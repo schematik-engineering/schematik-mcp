@@ -1,0 +1,10 @@
+{
+  "name": "schematik",
+  "version": "1.0.0",
+  "description": "Search electronics parts and step-by-step hardware build guides from Schematik.",
+  "author": { "name": "Schematik", "email": "support@schematik.io" },
+  "homepage": "https://www.schematik.io/docs/mcp",
+  "repository": "https://github.com/schematik-engineering/schematik-mcp",
+  "license": "MIT",
+  "keywords": ["electronics", "hardware", "arduino", "esp32", "mcp"]
+}

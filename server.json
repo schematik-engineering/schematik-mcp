@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.schematik/schematik",
+  "title": "Schematik",
+  "description": "Search electronics parts and step-by-step hardware build guides from Schematik.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.schematik.io",
+  "repository": { "url": "https://github.com/schematik-engineering/schematik-mcp", "source": "github" },
+  "icons": [{ "src": "https://www.schematik.io/favicon-192x192.png", "mimeType": "image/png", "sizes": ["192x192"] }],
+  "remotes": [{ "type": "streamable-http", "url": "https://www.schematik.io/mcp" }]
+}
