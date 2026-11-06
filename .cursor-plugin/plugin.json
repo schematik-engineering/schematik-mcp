@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Search electronics parts and step-by-step hardware build guides for Arduino, ESP32 and Raspberry Pi Pico from Schematik.",
   "author": { "name": "Schematik", "email": "support@schematik.io" },
-  "homepage": "https://www.schematik.io/docs/mcp",
+  "homepage": "https://www.schematik.io/mcp/docs",
   "repository": "https://github.com/schematik-engineering/schematik-mcp",
   "license": "MIT",
   "logo": "assets/logo.png",

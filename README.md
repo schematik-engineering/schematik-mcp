@@ -2,7 +2,7 @@
 
 Search electronics parts and step-by-step hardware build guides from [Schematik](https://www.schematik.io) in Claude, ChatGPT, Cursor, VS Code or any MCP client.
 
-Free, read-only, no sign-in.
+Free, read-only, no sign-in. Full docs: [schematik.io/mcp/docs](https://www.schematik.io/mcp/docs)
 
 ```
 https://www.schematik.io/mcp
@@ -12,7 +12,7 @@ https://www.schematik.io/mcp
 
 | Client | How |
 |---|---|
-| Claude | [Add to Claude](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Schematik&connectorUrl=https%3A%2F%2Fwww.schematik.io%2Fmcp) |
+| Claude | [Schematik in the Claude directory](https://claude.ai/directory/schematik) |
 | Claude Code | `claude mcp add --transport http schematik https://www.schematik.io/mcp` |
 | Cursor | [Add to Cursor](https://cursor.com/en/install-mcp?name=schematik&config=eyJ1cmwiOiJodHRwczovL3d3dy5zY2hlbWF0aWsuaW8vbWNwIn0=) |
 | VS Code | [Add to VS Code](https://vscode.dev/redirect/mcp/install?name=schematik&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fwww.schematik.io%2Fmcp%22%7D) |
